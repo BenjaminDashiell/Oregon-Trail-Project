@@ -1,0 +1,11 @@
+Kansas River Crossing,102,4
+Big Blue River Crossing,185,3
+Fort Kearney,304,0
+Fort Laramie,640,0
+Fort Bridger,989,0
+Green River Crossing,1151,5
+Fort Hall,1395,0
+Snake River Crossing,1534,5
+Fort Boise,1648,0
+Fort Walla Walla,1863,0
+Oregon City,2040,0
